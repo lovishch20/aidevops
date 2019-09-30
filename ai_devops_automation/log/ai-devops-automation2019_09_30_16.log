@@ -1,0 +1,30 @@
+2019-09-30 16:10:47,324:INFO:Starting pipeline creation for operation::create
+2019-09-30 16:10:47,324:INFO:DVC file already exists
+2019-09-30 16:10:52,002:INFO:Starting pipeline creation for operation::update
+2019-09-30 16:10:52,004:INFO:DVC file already exists , updating the file
+2019-09-30 16:13:07,216:INFO:Starting pipeline creation for operation::update
+2019-09-30 16:13:07,217:INFO:DVC file already exists , updating the file
+2019-09-30 16:15:06,357:INFO:Starting pipeline creation for operation::update
+2019-09-30 16:15:06,358:INFO:DVC file already exists , updating the file
+2019-09-30 16:25:15,877:INFO:Starting pipeline creation for operation::update
+2019-09-30 16:25:15,878:INFO:DVC file already exists , updating the file
+2019-09-30 16:25:21,295:INFO:Starting pipeline creation for operation::create
+2019-09-30 16:25:21,295:INFO:DVC file already exists
+2019-09-30 16:27:15,038:INFO:Starting pipeline creation for operation::update
+2019-09-30 16:27:15,041:INFO:DVC file does not exists ,can not perform update operation
+2019-09-30 16:27:17,090:INFO:Starting pipeline creation for operation::create
+2019-09-30 16:27:17,093:INFO:Creating new pipeline
+2019-09-30 16:40:43,592:INFO:Starting pipeline creation for operation::update
+2019-09-30 16:40:43,595:INFO:DVC file already exists , updating the file
+2019-09-30 16:41:56,909:INFO:Starting pipeline creation for operation::update
+2019-09-30 16:41:56,913:INFO:DVC file already exists , updating the file
+2019-09-30 16:45:07,628:INFO:Starting pipeline creation for operation::update
+2019-09-30 16:45:07,632:INFO:DVC file already exists , updating the file
+2019-09-30 16:48:20,159:INFO:Starting pipeline creation for operation::update
+2019-09-30 16:48:20,161:INFO:DVC file does not exists ,can not perform update operation
+2019-09-30 16:48:25,729:INFO:Starting pipeline creation for operation::create
+2019-09-30 16:48:25,730:INFO:Creating new pipeline
+2019-09-30 16:53:27,336:INFO:Starting pipeline creation for operation::create
+2019-09-30 16:53:27,338:INFO:Creating new pipeline
+2019-09-30 16:55:31,425:INFO:Starting pipeline creation for operation::create
+2019-09-30 16:55:31,426:INFO:Creating new pipeline
